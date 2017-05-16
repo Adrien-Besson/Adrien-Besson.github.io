@@ -1,0 +1,22 @@
+/*************** RESETER ***********/
+
+
+html,body{
+  margin:0;
+  padding:0;
+  width: 100%;
+  height:100%;
+}
+
+/*************** INSIDE TEXT ***********/
+
+#text{
+  position: absolute;
+  font-family: sans-serif;;
+  left: 50%;
+  transform: translate(-50%);
+  top:11em;
+  font-size: 2em;
+  font-weight: bold;
+  letter-spacing: .2em;
+}
